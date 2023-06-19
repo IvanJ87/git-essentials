@@ -20,3 +20,5 @@
 :cq to quit, without saving, with a nonzero exit code to indicate failure (short for :cquit)
 
 NOTE: `nano FILENAME` is pretty much the same
+
+`:set number` shows the file line number

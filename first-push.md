@@ -28,5 +28,19 @@ NOTE: `nano FILENAME` is pretty much the same
 # Git
 
 `git reset HEAD {FILENAME}`
-to 'undo' a
+to unstage ('undo') a
 `git add {FILENAME}`
+
+`git checkout -- {FILENAME}`
+to bring back deleted files in local that were once comitted
+
+`git checkout -b {BRANCHNAME}`
+to create a new branch
+
+`git checkout {BRANCHNAME}`
+to move among branches
+
+******
+
+
+

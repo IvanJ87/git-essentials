@@ -5,7 +5,7 @@
 3. commit work (v)
 4. push work (v)
 
-`vim FILENAME`
+`vim {FILENAME}`
 
 {content}
 
@@ -22,3 +22,25 @@
 NOTE: `nano FILENAME` is pretty much the same
 
 `:set number` shows the file line number
+
+--
+
+# Git
+
+`git reset HEAD {FILENAME}`
+to unstage ('undo') a
+`git add {FILENAME}`
+
+`git checkout -- {FILENAME}`
+to bring back deleted files in local that were once comitted
+
+`git checkout -b {BRANCHNAME}`
+to create a new branch
+
+`git checkout {BRANCHNAME}`
+to move among branches
+
+******
+
+
+

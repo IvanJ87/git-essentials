@@ -5,7 +5,7 @@
 3. commit work (v)
 4. push work (v)
 
-`vim FILENAME`
+`vim {FILENAME}`
 
 {content}
 
@@ -22,3 +22,11 @@
 NOTE: `nano FILENAME` is pretty much the same
 
 `:set number` shows the file line number
+
+--
+
+# Git
+
+`git reset HEAD {FILENAME}`
+to 'undo' a
+`git add {FILENAME}`

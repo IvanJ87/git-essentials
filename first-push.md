@@ -40,7 +40,9 @@ to create a new branch
 `git checkout {BRANCHNAME}`
 to move among branches
 
+1. Go to master
+2. `git pull origin master`
+3. `git merge new-branch`
+4. `git push origin master`
+
 ******
-
-
-

@@ -2,4 +2,5 @@
 - [X] Change its title
 - [X] Change its extension
 - [X] Add some content
-- [ ] Buy some cookies 
+- [ ] Buy some cookies
+- [X] Not be able to buy cookies because it's pouring outside 
